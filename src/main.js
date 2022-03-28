@@ -4,7 +4,7 @@ import router from "./router";
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import "./style/index.css"    // 全局样式
-import myplugin from './plugins/myplugin'
+import myplugin from './plugins/myplugins.js'
 Vue.use(ElementUI);
 Vue.use(myplugin)
 
