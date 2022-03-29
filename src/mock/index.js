@@ -1,2 +1,3 @@
 // 统一配置 api
-require('./')
+require('./login/mock.js')
+require('./article/mock.js')
